@@ -9,13 +9,13 @@ In the São Paulo DACAS meeting (June 2016), one case study on how to make the L
 Please read the License file for terms of use.
 
 
-Group members:
+**Group members:**
 
-Gabriela Depetri (University of São Paulo);
-Martin Schulwitz (ILS - Research Institute for Regional and Urban Development);
-Nir Fulman (Tel Aviv University);
-Patrizia Sulis (University College London);
-Sandro Sousa (University of São Paulo)
+* Gabriela Depetri (University of São Paulo);
+* Martin Schulwitz (ILS - Research Institute for Regional and Urban Development);
+* Nir Fulman (Tel Aviv University);
+* Patrizia Sulis (University College London);
+* Sandro Sousa (University of São Paulo)
 
 
 For questions regarding the code please contact sandrofsousa@gmail.com mentioning the git repo on the subject.
